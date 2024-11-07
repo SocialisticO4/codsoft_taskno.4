@@ -1,0 +1,21 @@
+movie_id,title,genre,language,release_year,rating
+1,Baahubali: The Beginning,Action|Drama,Telugu,2015,8.0
+2,Dangal,Drama|Biography,Hindi,2016,8.4
+3,Inception,Sci-Fi|Thriller,English,2010,8.8
+4,3 Idiots,Comedy|Drama,Hindi,2009,8.4
+5,Baahubali 2: The Conclusion,Action|Drama,Telugu,2017,8.2
+6,The Dark Knight,Action|Crime|Drama,English,2008,9.0
+7,Kabhi Khushi Kabhie Gham,Drama|Family,Hindi,2001,7.4
+8,Avengers: Endgame,Action|Adventure|Sci-Fi,English,2019,8.4
+9,The Shawshank Redemption,Drama,English,1994,9.3
+10,The Godfather,Crime|Drama,English,1972,9.2
+11,KGF: Chapter 1,Action|Drama|Thriller,Telugu,2018,8.2
+12,Sholay,Action|Adventure|Drama,Hindi,1975,8.1
+13,Forrest Gump,Drama|Romance,English,1994,8.8
+14,The Lion King,Animation|Adventure|Drama,English,1994,8.5
+15,Maheshinte Prathikaaram,Comedy|Drama|Romance,Malayalam,2016,7.7
+16,Zindagi Na Milegi Dobara,Adventure|Comedy|Drama,Hindi,2011,8.1
+17,Sultan,Action|Drama,Hindi,2016,7.5
+18,Interstellar,Adventure|Drama|Sci-Fi,English,2014,8.6
+19,Super 30,Biography|Drama,Hindi,2019,8.0
+20,Spider-Man: No Way Home,Action|Adventure|Sci-Fi,English,2021,8.3
